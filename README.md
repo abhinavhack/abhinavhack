@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhinavhack
+- 👋 Hi, I’m abhinavhack
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at jabhinav904@gmail.com
 
